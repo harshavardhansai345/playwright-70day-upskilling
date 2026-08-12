@@ -1,0 +1,18 @@
+# Dependencies
+node_modules/
+
+# Playwright Test Artifacts
+test-results/
+playwright-report/
+blob-report/
+playwright/.cache/
+
+# Temporary Excel files created when open in MS Office
+~$*.xlsx
+
+# Environment variables
+.env
+
+# OS Files
+.DS_Store
+Thumbs.db
